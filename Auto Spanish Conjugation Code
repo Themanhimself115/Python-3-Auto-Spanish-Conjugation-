@@ -1,0 +1,37 @@
+print("Welcome to Auto Conjugation")
+print("by Sebastian")
+
+sp = input("What is the starting word with Ar, Er, and Ir: ")
+cj = input("Ar = 1,     Er = 2,     Ir = 3: ")
+
+
+if cj == str(1):
+    print("-- Ar --")
+    print(sp + "o")
+    print(sp + "es")
+    print(sp + "e")
+    print(sp + "amos")
+    print(sp + "ais")
+    print(sp + "en")
+
+
+elif cj == str(2):
+    print("-- Er --")
+    print(sp + "o")
+    print(sp + "es")
+    print(sp + "e")
+    print(sp + "emos")
+    print(sp + "eis")
+    print(sp + "en")
+
+elif cj == str(3):
+    print("-- Ir --")
+    print(sp + "o")
+    print(sp + "es")
+    print(sp + "e")
+    print(sp + "imos")
+    print(sp + "is")
+    print(sp + "en")
+
+else:
+    print("Number is Invalid")
