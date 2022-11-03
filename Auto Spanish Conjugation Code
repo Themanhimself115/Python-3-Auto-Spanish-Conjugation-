@@ -1,7 +1,7 @@
 print("Welcome to Auto Conjugation")
 print("by Sebastian")
 
-sp = input("What is the starting word with Ar, Er, and Ir: ")
+sp = input("What is the starting word without Ar, Er, and Ir: ")
 cj = input("Ar = 1,     Er = 2,     Ir = 3: ")
 
 
