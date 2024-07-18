@@ -1,13 +1,8 @@
 # Python-3-Auto-Spanish-Conjugation-
 First project
+by: Themanhimself
 
-Hello,
-My name is Themanhimself115,
-I am only new to Python 3 and wish to learn more coding of this topic and other topics aswell.
-Please be soft on code.
-Please ask questions.
-Please comment suggestions about my code and how to make it better.
+just used this to get through spanish questions for basic spanish.
 
-Thank you for understanding.
+If you want to make this better, go ahead, i dont care.
 
- - Themanhimself115
